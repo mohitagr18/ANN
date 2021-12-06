@@ -37,3 +37,4 @@ def save_plot(model_history, plot_name, plot_dir):
 	plt.grid = True
 	plt.title('Loss and Accuracy Plot: Training and Validation Data')
 	plt.savefig(plot_path)
+
