@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohi9282/Documents/ANN/mlruns/0/ba5bed2f22c64a29b9d0a085a7ebbbf6/artifacts
+end_time: 1639180625495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ba5bed2f22c64a29b9d0a085a7ebbbf6
+run_uuid: ba5bed2f22c64a29b9d0a085a7ebbbf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639180608712
+status: 3
+tags: []
+user_id: mohi9282

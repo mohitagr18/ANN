@@ -3,8 +3,10 @@ from src.utils.data_mgmt import get_data
 from src.utils.model import create_model, save_model, save_plot
 import argparse
 import os
+import mlflow.keras
 
 def training(config_path):
+	mlflow.keras.autolog()
 	config = read_config(config_path)
 
 	# Get Data
